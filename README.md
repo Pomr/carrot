@@ -1,2 +1,1 @@
-# hello-world
-Hello world new project template.
+学习ccc的第一个项目练手
