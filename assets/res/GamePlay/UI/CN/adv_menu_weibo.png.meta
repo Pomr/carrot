@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f916f6f1-4eb6-4f38-b426-2a51a0f6c086",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "adv_menu_weibo": {
+      "ver": "1.0.3",
+      "uuid": "b2b13fa7-823e-4c06-a9e5-01847074fd79",
+      "rawTextureUuid": "f916f6f1-4eb6-4f38-b426-2a51a0f6c086",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0.5,
+      "trimX": 50,
+      "trimY": 30,
+      "width": 42,
+      "height": 39,
+      "rawWidth": 140,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

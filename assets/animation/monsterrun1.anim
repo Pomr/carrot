@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "monsterrun1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.8333333333333333,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 141
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": 141
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 567
+        },
+        {
+          "frame": 1.6666666666666667,
+          "value": 567
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": 679
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 0
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": -281
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": -281
+        },
+        {
+          "frame": 1.6666666666666667,
+          "value": -12
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": -12
+        }
+      ]
+    }
+  },
+  "events": []
+}

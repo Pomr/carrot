@@ -1,0 +1,87 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jump",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -643
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": -307
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": -307
+        },
+        {
+          "frame": 0.5,
+          "value": -219
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": -283
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": -185
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": -185
+        },
+        {
+          "frame": 0.5,
+          "value": -175
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.03333333333333333,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.03333333333333333,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.03333333333333333,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.03333333333333333,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.03333333333333333,
+      "func": "",
+      "params": []
+    }
+  ]
+}
