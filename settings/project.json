@@ -36,6 +36,16 @@
   "design-resolution-height": 640,
   "design-resolution-width": 960,
   "excluded-modules": [],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
   "fit-height": true,
   "fit-width": false,
   "group-list": [
@@ -45,6 +55,7 @@
     "pbottle",
     "zhangai"
   ],
+  "last-module-event-record-time": 1561786522416,
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
@@ -52,16 +63,5 @@
   },
   "start-scene": "10210aa4-330b-4472-bfa6-e482a981253b",
   "use-customize-simulator": false,
-  "use-project-simulator-setting": false,
-  "last-module-event-record-time": 0,
-  "facebook": {
-    "enable": false,
-    "appID": "",
-    "live": {
-      "enable": false
-    },
-    "audience": {
-      "enable": false
-    }
-  }
+  "use-project-simulator-setting": false
 }
